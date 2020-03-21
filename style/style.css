@@ -1,0 +1,42 @@
+
+    .container {
+        justify-content:space-between;
+      }
+     
+      .block__icon {
+        border-radius: 50%;
+        background-color: #f1e35c;
+        width:95px;
+        height:95px;
+        display: flex;
+        flex-direction:row;
+        align-items:center;
+        justify-content:center;
+
+        }
+        .block3 {
+
+          }
+          .container1{
+              justify-content:space-between;
+          }
+          .blocks{
+            display: flex;
+            justify-content:space-between;
+
+          }
+
+        .img{
+
+        }
+
+        .p{
+            width: 277px;
+            height: 200px;
+            font-size: 18px;
+            letter-spacing: 1px;
+            line-height: 30px;
+            color: #444444;
+            font-family: "Ubuntu";
+            font-weight: 400;
+            }
